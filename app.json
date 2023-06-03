@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "lazyloadingmovies",
+    "slug": "lazyloadingmovies",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFFFFF"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "buildNumber": "1.0.0",
+      "bundleIdentifier": "app.nolunga.lazyloadingmovies"
+    },
+    "android": {
+      "package": "app.nolunga.lazyloadingmovies",
+      "versionCode": 480010000,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
